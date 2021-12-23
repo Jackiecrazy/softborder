@@ -1,0 +1,7 @@
+{
+  "texture": {
+    "blur": true,
+    "_comment": "Due to the fact that this is used as a mask instead of an overlay, after drawing your vignette, invert its colors to get it to show up correctly"
+  }
+}
+

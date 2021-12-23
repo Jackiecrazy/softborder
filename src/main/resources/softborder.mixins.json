@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "jackiecrazy.softborder.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "softborder.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

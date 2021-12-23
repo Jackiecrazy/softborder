@@ -1,0 +1,21 @@
+{
+  "softborders.setSuccess": "set %s's border size for %s to %s",
+  "softborders.addSuccess": "added to %s's border size for %s by %s, it is now %s",
+  "softborders.subSuccess": "subtracted %s's border size for %s by %s, it is now %s",
+  "softborders.getSuccess": "%s's border size for %s is %s",
+  "softborders.setAllSuccess": "set %s's border size for all dimensions to %s",
+  "softborders.addAllSuccess": "added to %s's border size for all dimensions by %s",
+  "softborders.subAllSuccess": "subtracted %s's border size for all dimensions by %s",
+  "softborders.getAllSuccess": "%s's border size for %s is %s",
+  "softborders.setDefaultSuccess": "set %s's border size for %s to %s",
+  "softborders.addDefaultSuccess": "added to %s's border size for %s by %s, it is now %s",
+  "softborders.subDefaultSuccess": "subtracted %s's border size for %s by %s, it is now %s",
+  "softborders.getDefaultSuccess": "%s's border size for %s is %s",
+  "commands.missingargument": "missing arguments in command",
+  "softborder.dimension": "You have landed outside of your border. You will be teleported back to your last safe zone soon.",
+  "softborder.warped": "You have been teleported back to a safe zone.",
+  "effect.softborder.border_anchor": "Border Anchor",
+  "effect.softborder.disintegration": "Disintegration",
+  "death.attack.disintegration": "%s was reduced to atoms",
+  "death.attack.disintegration.player": "%s$1 was reduced to atoms while fighting %s$2"
+}
